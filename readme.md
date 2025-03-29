@@ -3,7 +3,7 @@
 1. Mir Mohibullah Sazid
 2. Syma Afsha
 
-## How to run:
+### How to run:
 To run the project, compile to file in catkin work space then,please run the following command:
 
 ```bash 
